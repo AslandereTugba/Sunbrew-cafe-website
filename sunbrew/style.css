@@ -1,0 +1,31 @@
+.carousel-item h1{
+    font-size: 4em;
+	color: #fff;
+  font-family: bebas neue;
+  
+}
+.carousel-item p{
+	font-size: 1.2em;
+  margin-bottom: 180px;
+  color: #fff;
+  font-family: montserrat;
+  
+ }
+ .card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+ }
+ .card-body {
+  flex-grow: 1;
+ }
+ .btn-buy-now {
+  margin-top: auto;
+  margin-bottom: 20px ;
+ }
+  .card-footer{
+    margin: auto;
+  }
+  
+  
+  
